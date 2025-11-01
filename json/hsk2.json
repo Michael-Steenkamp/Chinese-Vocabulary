@@ -1,0 +1,2298 @@
+[
+    {
+      "level": "HSK2",
+      "categories": ["particle","modal"],
+      "simplified": "吧",
+      "pinyin": ["ba","ba5"],
+      "english_concise": "suggestion/confirmation particle",
+      "english_descriptive": "used at the end of a sentence to indicate suggestion, request, or agreement",
+      "example_cn": "我们走吧。",
+      "example_pinyin": "Wǒmen zǒu ba.",
+      "example_en": "Let's go.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["number","noun"],
+      "simplified": "百",
+      "pinyin": ["bǎi","bai3"],
+      "english_concise": "hundred",
+      "english_descriptive": "the number 100",
+      "example_cn": "这本书有一百页。",
+      "example_pinyin": "Zhè běn shū yǒu yī bǎi yè.",
+      "example_en": "This book has 100 pages.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["color","adjective"],
+      "simplified": "白",
+      "pinyin": ["bái","bai2"],
+      "english_concise": "white",
+      "english_descriptive": "the color white",
+      "example_cn": "她穿了一件白衣服。",
+      "example_pinyin": "Tā chuānle yī jiàn bái yīfu.",
+      "example_en": "She is wearing a white piece of clothing.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "帮助",
+      "pinyin": ["bāngzhù","bang1zhu4"],
+      "english_concise": "help; assist",
+      "english_descriptive": "to give assistance or support to someone",
+      "example_cn": "我可以帮助你吗？",
+      "example_pinyin": "Wǒ kěyǐ bāngzhù nǐ ma?",
+      "example_en": "Can I help you?",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["noun"],
+      "simplified": "报纸",
+      "pinyin": ["bàozhǐ","bao4zhi3"],
+      "english_concise": "newspaper",
+      "english_descriptive": "a publication printed on paper containing news, articles, and advertisements",
+      "example_cn": "我每天都看报纸。",
+      "example_pinyin": "Wǒ měitiān dōu kàn bàozhǐ.",
+      "example_en": "I read the newspaper every day.",
+      "measure_word": {
+        "character": "份",
+        "pinyin": ["fèn","fen4"]
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb","comparison"],
+      "simplified": "比",
+      "pinyin": ["bǐ","bi3"],
+      "english_concise": "compare; than",
+      "english_descriptive": "used to compare two things, indicating one is more or less than the other",
+      "example_cn": "今天比昨天冷。",
+      "example_pinyin": "Jīntiān bǐ zuótiān lěng.",
+      "example_en": "Today is colder than yesterday.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "别",
+      "pinyin": ["bié","bie2"],
+      "english_concise": "don't; other",
+      "english_descriptive": "used to tell someone not to do something or to indicate distinction",
+      "example_cn": "别忘了带钥匙。",
+      "example_pinyin": "Bié wàngle dài yàoshi.",
+      "example_en": "Don't forget to bring the key.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["adjective","verb"],
+      "simplified": "长",
+      "pinyin": ["cháng","chang2"],
+      "english_concise": "long; grow",
+      "english_descriptive": "can describe length or the action of growing",
+      "example_cn": "这条河很长。",
+      "example_pinyin": "Zhè tiáo hé hěn cháng.",
+      "example_en": "This river is very long.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "唱歌",
+      "pinyin": ["chànggē","chang4ge1"],
+      "english_concise": "sing a song",
+      "english_descriptive": "to perform a song with voice",
+      "example_cn": "她喜欢唱歌。",
+      "example_pinyin": "Tā xǐhuān chànggē.",
+      "example_en": "She likes to sing.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "出",
+      "pinyin": ["chū","chu1"],
+      "english_concise": "go out; exit",
+      "english_descriptive": "to move outward or leave a place",
+      "example_cn": "他出去了。",
+      "example_pinyin": "Tā chūqù le.",
+      "example_en": "He went out.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "穿",
+      "pinyin": ["chuān","chuan1"],
+      "english_concise": "wear; put on",
+      "english_descriptive": "to put on clothes or shoes",
+      "example_cn": "他穿了一件新衣服。",
+      "example_pinyin": "Tā chuānle yī jiàn xīn yīfu.",
+      "example_en": "He is wearing a new piece of clothing.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","frequency"],
+      "simplified": "次",
+      "pinyin": ["cì","ci4"],
+      "english_concise": "time; occurrence",
+      "english_descriptive": "used to indicate the number of times something happens",
+      "example_cn": "我去过三次北京。",
+      "example_pinyin": "Wǒ qùguò sān cì Běijīng.",
+      "example_en": "I have been to Beijing three times.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["preposition"],
+      "simplified": "从",
+      "pinyin": ["cóng","cong2"],
+      "english_concise": "from; since",
+      "english_descriptive": "indicates starting point in time or place",
+      "example_cn": "我从学校回家。",
+      "example_pinyin": "Wǒ cóng xuéxiào huí jiā.",
+      "example_en": "I go home from school.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective"],
+      "simplified": "错",
+      "pinyin": ["cuò","cuo4"],
+      "english_concise": "wrong; incorrect",
+      "english_descriptive": "not correct or mistaken",
+      "example_cn": "你的答案错了。",
+      "example_pinyin": "Nǐ de dá'àn cuò le.",
+      "example_en": "Your answer is wrong.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb","activity"],
+      "simplified": "打篮球",
+      "pinyin": ["dǎ lánqiú","da3 lan2qiu2"],
+      "english_concise": "play basketball",
+      "english_descriptive": "to engage in the sport of basketball",
+      "example_cn": "他喜欢打篮球。",
+      "example_pinyin": "Tā xǐhuān dǎ lánqiú.",
+      "example_en": "He likes to play basketball.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["pronoun"],
+      "simplified": "大家",
+      "pinyin": ["dàjiā","da4jia1"],
+      "english_concise": "everyone",
+      "english_descriptive": "refers to all people in a group",
+      "example_cn": "大家好！",
+      "example_pinyin": "Dàjiā hǎo!",
+      "example_en": "Hello, everyone!",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "到",
+      "pinyin": ["dào","dao4"],
+      "english_concise": "arrive; reach",
+      "english_descriptive": "to get to a place or point in time",
+      "example_cn": "他到了学校。",
+      "example_pinyin": "Tā dào le xuéxiào.",
+      "example_en": "He has arrived at school.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["particle","verb"],
+      "simplified": "得",
+      "pinyin": ["de","de5"],
+      "english_concise": "structural particle",
+      "english_descriptive": "used after a verb to indicate degree or result",
+      "example_cn": "跑得快。",
+      "example_pinyin": "Pǎo de kuài.",
+      "example_en": "Runs fast.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "等",
+      "pinyin": ["děng","deng3"],
+      "english_concise": "wait; etc.",
+      "english_descriptive": "to stay in a place until a particular time or event; can also mean 'and so on'",
+      "example_cn": "请等我一下。",
+      "example_pinyin": "Qǐng děng wǒ yīxià.",
+      "example_en": "Please wait for me a moment.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","family"],
+      "simplified": "弟弟",
+      "pinyin": ["dìdi","di4di5"],
+      "english_concise": "younger brother",
+      "english_descriptive": "a male sibling younger than oneself",
+      "example_cn": "我有一个弟弟。",
+      "example_pinyin": "Wǒ yǒu yī gè dìdi.",
+      "example_en": "I have a younger brother.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["ordinal","number"],
+      "simplified": "第一",
+      "pinyin": ["dì yī","di4 yi1"],
+      "english_concise": "first",
+      "english_descriptive": "indicates the position in a sequence as number one",
+      "example_cn": "他是第一名。",
+      "example_pinyin": "Tā shì dì yī míng.",
+      "example_en": "He is number one.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "懂",
+      "pinyin": ["dǒng","dong3"],
+      "english_concise": "understand",
+      "english_descriptive": "to comprehend or know the meaning of something",
+      "example_cn": "我懂你的意思。",
+      "example_pinyin": "Wǒ dǒng nǐ de yìsi.",
+      "example_en": "I understand what you mean.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["preposition","adjective"],
+      "simplified": "对",
+      "pinyin": ["duì","dui4"],
+      "english_concise": "correct; to",
+      "english_descriptive": "can indicate correctness or direction toward a person/object",
+      "example_cn": "你说得对。",
+      "example_pinyin": "Nǐ shuō de duì.",
+      "example_en": "What you said is correct.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","place"],
+      "simplified": "房间",
+      "pinyin": ["fángjiān","fang2jian1"],
+      "english_concise": "room",
+      "english_descriptive": "an enclosed area in a building used for living, sleeping, or working",
+      "example_cn": "我的房间很大。",
+      "example_pinyin": "Wǒ de fángjiān hěn dà.",
+      "example_en": "My room is very big.",
+      "measure_word": {
+        "character": "间",
+        "pinyin": ["jiān","jian1"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adverb"],
+      "simplified": "非常",
+      "pinyin": ["fēicháng","fei1chang2"],
+      "english_concise": "very; extremely",
+      "english_descriptive": "used to emphasize a high degree or intensity",
+      "example_cn": "他非常喜欢中国菜。",
+      "example_pinyin": "Tā fēicháng xǐhuān Zhōngguó cài.",
+      "example_en": "He really likes Chinese food.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","occupation"],
+      "simplified": "服务员",
+      "pinyin": ["fúwùyuán","fu2wu4yuan2"],
+      "english_concise": "waiter; waitress; attendant",
+      "english_descriptive": "a person who serves customers in a restaurant or hotel",
+      "example_cn": "服务员，请给我菜单。",
+      "example_pinyin": "Fúwùyuán, qǐng gěi wǒ càidān.",
+      "example_en": "Waiter, please give me the menu.",
+      "measure_word": {
+        "character": "位",
+        "pinyin": ["wèi","wei4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective"],
+      "simplified": "高",
+      "pinyin": ["gāo","gao1"],
+      "english_concise": "tall; high",
+      "english_descriptive": "used to describe height or level",
+      "example_cn": "他比我高。",
+      "example_pinyin": "Tā bǐ wǒ gāo.",
+      "example_en": "He is taller than me.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "告诉",
+      "pinyin": ["gàosu","gao4su5"],
+      "english_concise": "tell; inform",
+      "english_descriptive": "to communicate information to someone",
+      "example_cn": "请告诉我你的名字。",
+      "example_pinyin": "Qǐng gàosu wǒ nǐ de míngzì.",
+      "example_en": "Please tell me your name.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","family"],
+      "simplified": "哥哥",
+      "pinyin": ["gēge","ge1ge5"],
+      "english_concise": "older brother",
+      "english_descriptive": "a male sibling older than oneself",
+      "example_cn": "我哥哥在学校工作。",
+      "example_pinyin": "Wǒ gēge zài xuéxiào gōngzuò.",
+      "example_en": "My older brother works at a school.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb","preposition"],
+      "simplified": "给",
+      "pinyin": ["gěi","gei3"],
+      "english_concise": "give; to",
+      "english_descriptive": "to hand something to someone or indicate the recipient of an action",
+      "example_cn": "妈妈给了我一本书。",
+      "example_pinyin": "Māma gěi le wǒ yī běn shū.",
+      "example_en": "Mom gave me a book.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","transportation"],
+      "simplified": "公共汽车",
+      "pinyin": ["gōnggòng qìchē","gong1gong4 qi4che1"],
+      "english_concise": "bus",
+      "english_descriptive": "a large vehicle for carrying many passengers, usually along a fixed route",
+      "example_cn": "我每天坐公共汽车去上班。",
+      "example_pinyin": "Wǒ měitiān zuò gōnggòng qìchē qù shàngbān.",
+      "example_en": "I take the bus to work every day.",
+      "measure_word": {
+        "character": "辆",
+        "pinyin": ["liàng","liang4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","organization"],
+      "simplified": "公司",
+      "pinyin": ["gōngsī","gong1si1"],
+      "english_concise": "company; firm",
+      "english_descriptive": "a business organization that sells goods or services",
+      "example_cn": "我在一家大公司工作。",
+      "example_pinyin": "Wǒ zài yī jiā dà gōngsī gōngzuò.",
+      "example_en": "I work in a big company.",
+      "measure_word": {
+        "character": "家",
+        "pinyin": ["jiā","jia1"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective"],
+      "simplified": "贵",
+      "pinyin": ["guì","gui4"],
+      "english_concise": "expensive; honorable",
+      "english_descriptive": "used to describe something that costs a lot or to show respect",
+      "example_cn": "这件衣服太贵了。",
+      "example_pinyin": "Zhè jiàn yīfu tài guì le.",
+      "example_en": "This piece of clothing is too expensive.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb","particle"],
+      "simplified": "过",
+      "pinyin": ["guò","guo4"],
+      "english_concise": "pass; spend; experience",
+      "english_descriptive": "used to indicate past experience or movement across",
+      "example_cn": "我去过中国。",
+      "example_pinyin": "Wǒ qùguò Zhōngguó.",
+      "example_en": "I have been to China.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adverb","verb"],
+      "simplified": "还",
+      "pinyin": ["hái","hai2"],
+      "english_concise": "still; also; return",
+      "english_descriptive": "can indicate continuation, addition, or returning something",
+      "example_cn": "我还有很多工作要做。",
+      "example_pinyin": "Wǒ hái yǒu hěn duō gōngzuò yào zuò.",
+      "example_en": "I still have a lot of work to do.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","person"],
+      "simplified": "孩子",
+      "pinyin": ["háizi","hai2zi5"],
+      "english_concise": "child",
+      "english_descriptive": "a young person below the age of adulthood",
+      "example_cn": "那个孩子很可爱。",
+      "example_pinyin": "Nàge háizi hěn kě'ài.",
+      "example_en": "That child is very cute.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective"],
+      "simplified": "好吃",
+      "pinyin": ["hǎochī","hao3chi1"],
+      "english_concise": "delicious; tasty",
+      "english_descriptive": "used to describe food that tastes good",
+      "example_cn": "这个菜很好吃。",
+      "example_pinyin": "Zhège cài hěn hǎochī.",
+      "example_en": "This dish is very tasty.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["color","adjective"],
+      "simplified": "黑",
+      "pinyin": ["hēi","hei1"],
+      "english_concise": "black",
+      "english_descriptive": "the color black",
+      "example_cn": "他有一辆黑车。",
+      "example_pinyin": "Tā yǒu yī liàng hēi chē.",
+      "example_en": "He has a black car.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["color","adjective"],
+      "simplified": "红",
+      "pinyin": ["hóng","hong2"],
+      "english_concise": "red",
+      "english_descriptive": "the color red",
+      "example_cn": "我喜欢红花。",
+      "example_pinyin": "Wǒ xǐhuān hóng huā.",
+      "example_en": "I like red flowers.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","place","transportation"],
+      "simplified": "火车站",
+      "pinyin": ["huǒchēzhàn","huo3che1zhan4"],
+      "english_concise": "train station",
+      "english_descriptive": "a place where trains stop to pick up and drop off passengers",
+      "example_cn": "我们在火车站见面。",
+      "example_pinyin": "Wǒmen zài huǒchēzhàn jiànmiàn.",
+      "example_en": "We will meet at the train station.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","place","transportation"],
+      "simplified": "机场",
+      "pinyin": ["jīchǎng","ji1chang3"],
+      "english_concise": "airport",
+      "english_descriptive": "a place where airplanes take off and land",
+      "example_cn": "我在机场等你。",
+      "example_pinyin": "Wǒ zài jīchǎng děng nǐ.",
+      "example_en": "I’ll wait for you at the airport.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","food"],
+      "simplified": "鸡蛋",
+      "pinyin": ["jīdàn","ji1dan4"],
+      "english_concise": "egg",
+      "english_descriptive": "a round or oval object laid by a hen, used as food",
+      "example_cn": "我早餐吃两个鸡蛋。",
+      "example_pinyin": "Wǒ zǎocān chī liǎng gè jīdàn.",
+      "example_en": "I eat two eggs for breakfast.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["measure word"],
+      "simplified": "件",
+      "pinyin": ["jiàn","jian4"],
+      "english_concise": "measure word for clothing, events, etc.",
+      "english_descriptive": "used to count pieces of clothing, events, or matters",
+      "example_cn": "这是一件新衣服。",
+      "example_pinyin": "Zhè shì yī jiàn xīn yīfu.",
+      "example_en": "This is a new piece of clothing.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","occupation"],
+      "simplified": "教师",
+      "pinyin": ["jiàoshī","jiao4shi1"],
+      "english_concise": "teacher",
+      "english_descriptive": "a person who teaches, especially in a school",
+      "example_cn": "他是一名教师。",
+      "example_pinyin": "Tā shì yī míng jiàoshī.",
+      "example_en": "He is a teacher.",
+      "measure_word": {
+        "character": "位",
+        "pinyin": ["wèi","wei4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","family"],
+      "simplified": "姐姐",
+      "pinyin": ["jiějie","jie3jie5"],
+      "english_concise": "older sister",
+      "english_descriptive": "a female sibling older than oneself",
+      "example_cn": "我姐姐很漂亮。",
+      "example_pinyin": "Wǒ jiějie hěn piàoliang.",
+      "example_en": "My older sister is very beautiful.",
+      "measure_word": {
+        "character": "个",
+        "pinyin": ["gè","ge4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "介绍",
+      "pinyin": ["jièshào","jie4shao4"],
+      "english_concise": "introduce; present",
+      "english_descriptive": "to tell someone about another person or thing for the first time",
+      "example_cn": "请介绍一下你自己。",
+      "example_pinyin": "Qǐng jièshào yīxià nǐ zìjǐ.",
+      "example_en": "Please introduce yourself.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb","direction"],
+      "simplified": "进",
+      "pinyin": ["jìn","jin4"],
+      "english_concise": "enter; go in",
+      "english_descriptive": "to move from outside to inside",
+      "example_cn": "请进！",
+      "example_pinyin": "Qǐng jìn!",
+      "example_en": "Please come in!",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective"],
+      "simplified": "近",
+      "pinyin": ["jìn","jin4"],
+      "english_concise": "near; close",
+      "english_descriptive": "describes a short distance between two places or objects",
+      "example_cn": "学校离我家很近。",
+      "example_pinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+      "example_en": "The school is very close to my home.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adverb","conjunction"],
+      "simplified": "就",
+      "pinyin": ["jiù","jiu4"],
+      "english_concise": "then; just",
+      "english_descriptive": "used to indicate a quick or early action, or emphasis",
+      "example_cn": "我一到家就给你打电话。",
+      "example_pinyin": "Wǒ yī dào jiā jiù gěi nǐ dǎ diànhuà.",
+      "example_en": "I’ll call you as soon as I get home.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "觉得",
+      "pinyin": ["juéde","jue2de5"],
+      "english_concise": "feel; think",
+      "english_descriptive": "to have an opinion or emotional response about something",
+      "example_cn": "我觉得这个电影很好看。",
+      "example_pinyin": "Wǒ juéde zhège diànyǐng hěn hǎokàn.",
+      "example_en": "I think this movie is very good.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","drink"],
+      "simplified": "咖啡",
+      "pinyin": ["kāfēi","ka1fei1"],
+      "english_concise": "coffee",
+      "english_descriptive": "a drink made from roasted coffee beans",
+      "example_cn": "我早上喜欢喝咖啡。",
+      "example_pinyin": "Wǒ zǎoshang xǐhuān hē kāfēi.",
+      "example_en": "I like to drink coffee in the morning.",
+      "measure_word": {
+        "character": "杯",
+        "pinyin": ["bēi","bei1"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["verb"],
+      "simplified": "开始",
+      "pinyin": ["kāishǐ","kai1shi3"],
+      "english_concise": "begin; start",
+      "english_descriptive": "to initiate or commence an activity or event",
+      "example_cn": "我们九点开始上课。",
+      "example_pinyin": "Wǒmen jiǔ diǎn kāishǐ shàngkè.",
+      "example_en": "We start class at nine o’clock.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","exam"],
+      "simplified": "考试",
+      "pinyin": ["kǎoshì","kao3shi4"],
+      "english_concise": "exam; test",
+      "english_descriptive": "a formal test of knowledge or ability",
+      "example_cn": "明天我们有中文考试。",
+      "example_pinyin": "Míngtiān wǒmen yǒu Zhōngwén kǎoshì.",
+      "example_en": "We have a Chinese exam tomorrow.",
+      "measure_word": {
+        "character": "次",
+        "pinyin": ["cì","ci4"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["modal verb"],
+      "simplified": "可能",
+      "pinyin": ["kěnéng","ke3neng2"],
+      "english_concise": "maybe; possible",
+      "english_descriptive": "indicates probability or possibility",
+      "example_cn": "他今天可能不来。",
+      "example_pinyin": "Tā jīntiān kěnéng bù lái.",
+      "example_en": "He might not come today.",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["modal verb"],
+      "simplified": "可以",
+      "pinyin": ["kěyǐ","ke3yi3"],
+      "english_concise": "can; may; be allowed to",
+      "english_descriptive": "used to express permission or ability to do something",
+      "example_cn": "我可以坐这里吗？",
+      "example_pinyin": "Wǒ kěyǐ zuò zhèlǐ ma?",
+      "example_en": "Can I sit here?",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["noun","education"],
+      "simplified": "课",
+      "pinyin": ["kè","ke4"],
+      "english_concise": "class; lesson",
+      "english_descriptive": "a unit of teaching or subject in school",
+      "example_cn": "我们现在上中文课。",
+      "example_pinyin": "Wǒmen xiànzài shàng Zhōngwén kè.",
+      "example_en": "We are having a Chinese class now.",
+      "measure_word": {
+        "character": "节",
+        "pinyin": ["jié","jie2"]
+      }
+    },
+
+    {
+      "level": "HSK2",
+      "categories": ["adjective","adverb"],
+      "simplified": "快",
+      "pinyin": ["kuài","kuai4"],
+      "english_concise": "fast; quick; soon",
+      "english_descriptive": "describes high speed or something happening soon",
+      "example_cn": "快点儿，我们要迟到了！",
+      "example_pinyin": "Kuài diǎnr, wǒmen yào chídào le!",
+      "example_en": "Hurry up, we’re going to be late!",
+      "measure_word": {
+        "character": "",
+        "pinyin": []
+      }
+    },
+  {
+    "level": "HSK2",
+    "categories": ["adjective", "emotion"],
+    "simplified": "快乐",
+    "pinyin": ["kuàilè", "kuai4le4"],
+    "english_concise": "happy; joyful",
+    "english_descriptive": "feeling or showing pleasure and contentment",
+    "example_cn": "祝你生日快乐！",
+    "example_pinyin": "Zhù nǐ shēngrì kuàilè!",
+    "example_en": "Happy birthday to you!",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective", "feeling"],
+    "simplified": "累",
+    "pinyin": ["lèi", "lei4"],
+    "english_concise": "tired; weary",
+    "english_descriptive": "feeling the need to rest or sleep due to exertion",
+    "example_cn": "我今天有点儿累。",
+    "example_pinyin": "Wǒ jīntiān yǒu diǎnr lèi.",
+    "example_en": "I’m a little tired today.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["preposition", "verb"],
+    "simplified": "离",
+    "pinyin": ["lí", "li2"],
+    "english_concise": "away from; leave",
+    "english_descriptive": "used to indicate distance or separation between two things",
+    "example_cn": "学校离我家很远。",
+    "example_pinyin": "Xuéxiào lí wǒ jiā hěn yuǎn.",
+    "example_en": "The school is far from my home.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["numeral", "measure word"],
+    "simplified": "两",
+    "pinyin": ["liǎng", "liang3"],
+    "english_concise": "two; both",
+    "english_descriptive": "used before measure words to express the number two",
+    "example_cn": "我有两个哥哥。",
+    "example_pinyin": "Wǒ yǒu liǎng gè gēge.",
+    "example_en": "I have two older brothers.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["numeral"],
+    "simplified": "零",
+    "pinyin": ["líng", "ling2"],
+    "english_concise": "zero",
+    "english_descriptive": "the number representing nothing or no quantity",
+    "example_cn": "今天的气温是零下五度。",
+    "example_pinyin": "Jīntiān de qìwēn shì líng xià wǔ dù.",
+    "example_en": "Today’s temperature is minus five degrees.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "place"],
+    "simplified": "路",
+    "pinyin": ["lù", "lu4"],
+    "english_concise": "road; way",
+    "english_descriptive": "a path or street for traveling by foot or vehicle",
+    "example_cn": "这条路很长。",
+    "example_pinyin": "Zhè tiáo lù hěn cháng.",
+    "example_en": "This road is very long.",
+    "measure_word": {
+      "character": "条",
+      "pinyin": ["tiáo", "tiao2"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "activity"],
+    "simplified": "旅游",
+    "pinyin": ["lǚyóu", "lü3you2"],
+    "english_concise": "travel; tour",
+    "english_descriptive": "to go to different places for leisure or exploration",
+    "example_cn": "我最喜欢去中国旅游。",
+    "example_pinyin": "Wǒ zuì xǐhuān qù Zhōngguó lǚyóu.",
+    "example_en": "I like traveling to China the most.",
+    "measure_word": {
+      "character": "次",
+      "pinyin": ["cì", "ci4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "卖",
+    "pinyin": ["mài", "mai4"],
+    "english_concise": "sell",
+    "english_descriptive": "to give something in exchange for money",
+    "example_cn": "他在商店里卖衣服。",
+    "example_pinyin": "Tā zài shāngdiàn lǐ mài yīfu.",
+    "example_en": "He sells clothes in a shop.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "慢",
+    "pinyin": ["màn", "man4"],
+    "english_concise": "slow",
+    "english_descriptive": "moving or happening at a low speed",
+    "example_cn": "他说话太慢了。",
+    "example_pinyin": "Tā shuōhuà tài màn le.",
+    "example_en": "He speaks too slowly.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "忙",
+    "pinyin": ["máng", "mang2"],
+    "english_concise": "busy",
+    "english_descriptive": "having a lot to do; not free",
+    "example_cn": "我最近很忙。",
+    "example_pinyin": "Wǒ zuìjìn hěn máng.",
+    "example_en": "I’ve been very busy lately.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["pronoun", "quantifier"],
+    "simplified": "每",
+    "pinyin": ["měi", "mei3"],
+    "english_concise": "every; each",
+    "english_descriptive": "used to indicate each member of a group or series",
+    "example_cn": "我每天早上跑步。",
+    "example_pinyin": "Wǒ měi tiān zǎoshang pǎobù.",
+    "example_en": "I run every morning.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "family"],
+    "simplified": "妹妹",
+    "pinyin": ["mèimei", "mei4mei5"],
+    "english_concise": "younger sister",
+    "english_descriptive": "a female sibling younger than oneself",
+    "example_cn": "我妹妹今年十岁。",
+    "example_pinyin": "Wǒ mèimei jīnnián shí suì.",
+    "example_en": "My younger sister is ten years old this year.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "object"],
+    "simplified": "门",
+    "pinyin": ["mén", "men2"],
+    "english_concise": "door; gate",
+    "english_descriptive": "a movable barrier used to open or close an entrance",
+    "example_cn": "请关上门。",
+    "example_pinyin": "Qǐng guān shàng mén.",
+    "example_en": "Please close the door.",
+    "measure_word": {
+      "character": "扇",
+      "pinyin": ["shàn", "shan4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "food"],
+    "simplified": "面条",
+    "pinyin": ["miàntiáo", "mian4tiao2"],
+    "english_concise": "noodles",
+    "english_descriptive": "long, thin strips of dough cooked and eaten as food",
+    "example_cn": "我喜欢吃牛肉面条。",
+    "example_pinyin": "Wǒ xǐhuān chī niúròu miàntiáo.",
+    "example_en": "I like eating beef noodles.",
+    "measure_word": {
+      "character": "碗",
+      "pinyin": ["wǎn", "wan3"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "person", "gender"],
+    "simplified": "男",
+    "pinyin": ["nán", "nan2"],
+    "english_concise": "male; man",
+    "english_descriptive": "a person of the male sex",
+    "example_cn": "那个男孩子是我同学。",
+    "example_pinyin": "Nàge nán háizi shì wǒ tóngxué.",
+    "example_en": "That boy is my classmate.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["pronoun", "respectful form"],
+    "simplified": "您",
+    "pinyin": ["nín", "nin2"],
+    "english_concise": "you (polite)",
+    "english_descriptive": "respectful form of 'you', used to show politeness",
+    "example_cn": "您好，请进！",
+    "example_pinyin": "Nín hǎo, qǐng jìn!",
+    "example_en": "Hello, please come in!",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "food", "drink"],
+    "simplified": "牛奶",
+    "pinyin": ["niúnǎi", "niu2nai3"],
+    "english_concise": "milk",
+    "english_descriptive": "a white liquid produced by cows, used as food or drink",
+    "example_cn": "我每天早上喝牛奶。",
+    "example_pinyin": "Wǒ měi tiān zǎoshang hē niúnǎi.",
+    "example_en": "I drink milk every morning.",
+    "measure_word": {
+      "character": "杯",
+      "pinyin": ["bēi", "bei1"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "person", "gender"],
+    "simplified": "女",
+    "pinyin": ["nǚ", "nü3"],
+    "english_concise": "female; woman",
+    "english_descriptive": "a person of the female sex",
+    "example_cn": "那个女医生很有名。",
+    "example_pinyin": "Nàge nǚ yīshēng hěn yǒumíng.",
+    "example_en": "That female doctor is very famous.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "place", "position"],
+    "simplified": "旁边",
+    "pinyin": ["pángbiān", "pang2bian1"],
+    "english_concise": "side; beside",
+    "english_descriptive": "the position next to or near something",
+    "example_cn": "学校在公园旁边。",
+    "example_pinyin": "Xuéxiào zài gōngyuán pángbiān.",
+    "example_en": "The school is beside the park.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb", "activity"],
+    "simplified": "跑步",
+    "pinyin": ["pǎobù", "pao3bu4"],
+    "english_concise": "run; jogging",
+    "english_descriptive": "to move quickly on foot for exercise or sport",
+    "example_cn": "我每天早上去公园跑步。",
+    "example_pinyin": "Wǒ měi tiān zǎoshang qù gōngyuán pǎobù.",
+    "example_en": "I go jogging in the park every morning.",
+    "measure_word": {
+      "character": "次",
+      "pinyin": ["cì", "ci4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "便宜",
+    "pinyin": ["piányi", "pian2yi5"],
+    "english_concise": "cheap; inexpensive",
+    "english_descriptive": "costing little money; low in price",
+    "example_cn": "这件衣服很便宜。",
+    "example_pinyin": "Zhè jiàn yīfu hěn piányi.",
+    "example_en": "This piece of clothing is very cheap.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "object"],
+    "simplified": "票",
+    "pinyin": ["piào", "piao4"],
+    "english_concise": "ticket",
+    "english_descriptive": "a piece of paper that allows entry to an event or transportation",
+    "example_cn": "我买了两张电影票。",
+    "example_pinyin": "Wǒ mǎi le liǎng zhāng diànyǐng piào.",
+    "example_en": "I bought two movie tickets.",
+    "measure_word": {
+      "character": "张",
+      "pinyin": ["zhāng", "zhang1"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "family"],
+    "simplified": "妻子",
+    "pinyin": ["qīzi", "qi1zi5"],
+    "english_concise": "wife",
+    "english_descriptive": "a woman joined to a man in marriage",
+    "example_cn": "我妻子在银行工作。",
+    "example_pinyin": "Wǒ qīzi zài yínháng gōngzuò.",
+    "example_en": "My wife works at a bank.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "起床",
+    "pinyin": ["qǐchuáng", "qi3chuang2"],
+    "english_concise": "get up; get out of bed",
+    "english_descriptive": "to rise from bed after sleeping",
+    "example_cn": "我每天七点起床。",
+    "example_pinyin": "Wǒ měi tiān qī diǎn qǐchuáng.",
+    "example_en": "I get up at seven every day.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["numeral"],
+    "simplified": "千",
+    "pinyin": ["qiān", "qian1"],
+    "english_concise": "thousand",
+    "english_descriptive": "the number equivalent to ten hundred (1,000)",
+    "example_cn": "这个城市有一千万人。",
+    "example_pinyin": "Zhège chéngshì yǒu yī qiān wàn rén.",
+    "example_en": "This city has ten million people.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "object", "stationery"],
+    "simplified": "铅笔",
+    "pinyin": ["qiānbǐ", "qian1bi3"],
+    "english_concise": "pencil",
+    "english_descriptive": "a thin writing tool with graphite inside a wooden case",
+    "example_cn": "我用铅笔写字。",
+    "example_pinyin": "Wǒ yòng qiānbǐ xiě zì.",
+    "example_en": "I write with a pencil.",
+    "measure_word": {
+      "character": "支",
+      "pinyin": ["zhī", "zhi1"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective", "weather"],
+    "simplified": "晴",
+    "pinyin": ["qíng", "qing2"],
+    "english_concise": "sunny; clear",
+    "english_descriptive": "used to describe bright weather with no rain or clouds",
+    "example_cn": "今天是晴天。",
+    "example_pinyin": "Jīntiān shì qíngtiān.",
+    "example_en": "Today is a sunny day.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["time", "noun"],
+    "simplified": "去年",
+    "pinyin": ["qùnián", "qu4nian2"],
+    "english_concise": "last year",
+    "english_descriptive": "the year before the current one",
+    "example_cn": "我去年去了北京。",
+    "example_pinyin": "Wǒ qùnián qù le Běijīng.",
+    "example_en": "I went to Beijing last year.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "让",
+    "pinyin": ["ràng", "rang4"],
+    "english_concise": "let; allow; make",
+    "english_descriptive": "to permit or cause someone to do something",
+    "example_cn": "妈妈让我早点回家。",
+    "example_pinyin": "Māma ràng wǒ zǎo diǎn huí jiā.",
+    "example_en": "Mom told me to come home early.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "time"],
+    "simplified": "日",
+    "pinyin": ["rì", "ri4"],
+    "english_concise": "day; sun",
+    "english_descriptive": "a unit of time equivalent to 24 hours; also refers to the sun",
+    "example_cn": "今天是三月五日。",
+    "example_pinyin": "Jīntiān shì sān yuè wǔ rì.",
+    "example_en": "Today is March 5th.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "上班",
+    "pinyin": ["shàngbān", "shang4ban1"],
+    "english_concise": "go to work",
+    "english_descriptive": "to attend or start one’s job during work hours",
+    "example_cn": "我爸爸早上八点上班。",
+    "example_pinyin": "Wǒ bàba zǎoshang bā diǎn shàngbān.",
+    "example_en": "My father goes to work at eight in the morning.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "health"],
+    "simplified": "身体",
+    "pinyin": ["shēntǐ", "shen1ti3"],
+    "english_concise": "body; health",
+    "english_descriptive": "the physical structure of a person; general health condition",
+    "example_cn": "你身体好吗？",
+    "example_pinyin": "Nǐ shēntǐ hǎo ma?",
+    "example_en": "How is your health?",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "生病",
+    "pinyin": ["shēngbìng", "sheng1bing4"],
+    "english_concise": "fall ill; get sick",
+    "english_descriptive": "to become ill or experience sickness",
+    "example_cn": "他生病了，不能去上班。",
+    "example_pinyin": "Tā shēngbìng le, bù néng qù shàngbān.",
+    "example_en": "He is sick and cannot go to work.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "生日",
+    "pinyin": ["shēngrì", "sheng1ri4"],
+    "english_concise": "birthday",
+    "english_descriptive": "the anniversary of a person’s birth",
+    "example_cn": "今天是我的生日。",
+    "example_pinyin": "Jīntiān shì wǒ de shēngrì.",
+    "example_en": "Today is my birthday.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "时间",
+    "pinyin": ["shíjiān", "shi2jian1"],
+    "english_concise": "time",
+    "english_descriptive": "a measurable period during which an action or event occurs",
+    "example_cn": "我没有时间看电影。",
+    "example_pinyin": "Wǒ méiyǒu shíjiān kàn diànyǐng.",
+    "example_en": "I don’t have time to watch a movie.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "事情",
+    "pinyin": ["shìqing", "shi4qing5"],
+    "english_concise": "matter; thing; affair",
+    "english_descriptive": "an event, situation, or task that happens or needs attention",
+    "example_cn": "我有很多事情要做。",
+    "example_pinyin": "Wǒ yǒu hěn duō shìqing yào zuò.",
+    "example_en": "I have many things to do.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "手表",
+    "pinyin": ["shǒubiǎo", "shou3biao3"],
+    "english_concise": "watch",
+    "english_descriptive": "a small timepiece worn on the wrist",
+    "example_cn": "我的手表很漂亮。",
+    "example_pinyin": "Wǒ de shǒubiǎo hěn piàoliang.",
+    "example_en": "My watch is very beautiful.",
+    "measure_word": {
+      "character": "块",
+      "pinyin": ["kuài", "kuai4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "手机",
+    "pinyin": ["shǒujī", "shou3ji1"],
+    "english_concise": "cell phone; mobile phone",
+    "english_descriptive": "a portable telephone used for communication",
+    "example_cn": "我的手机在桌子上。",
+    "example_pinyin": "Wǒ de shǒujī zài zhuōzi shàng.",
+    "example_en": "My phone is on the table.",
+    "measure_word": {
+      "character": "部",
+      "pinyin": ["bù", "bu4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "说话",
+    "pinyin": ["shuōhuà", "shuo1hua4"],
+    "english_concise": "speak; talk",
+    "english_descriptive": "to use words to express thoughts or communicate",
+    "example_cn": "请不要大声说话。",
+    "example_pinyin": "Qǐng bú yào dàshēng shuōhuà.",
+    "example_en": "Please don’t speak loudly.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "送",
+    "pinyin": ["sòng", "song4"],
+    "english_concise": "give as a gift; deliver; see off",
+    "english_descriptive": "to present something to someone or accompany someone on departure",
+    "example_cn": "我送你一本书。",
+    "example_pinyin": "Wǒ sòng nǐ yī běn shū.",
+    "example_en": "I’ll give you a book.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["conjunction"],
+    "simplified": "虽然",
+    "pinyin": ["suīrán", "sui1ran2"],
+    "english_concise": "although",
+    "english_descriptive": "used to introduce a contrast with the following clause",
+    "example_cn": "虽然下雨了，但我们还是去公园。",
+    "example_pinyin": "Suīrán xià yǔ le, dàn wǒmen háishì qù gōngyuán.",
+    "example_en": "Although it rained, we still went to the park.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["conjunction"],
+    "simplified": "但是",
+    "pinyin": ["dànshì", "dan4shi4"],
+    "english_concise": "but; however",
+    "english_descriptive": "used to introduce a statement that contrasts with what was said before",
+    "example_cn": "我想去，但是我太忙了。",
+    "example_pinyin": "Wǒ xiǎng qù, dànshì wǒ tài máng le.",
+    "example_en": "I want to go, but I’m too busy.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["pronoun"],
+    "simplified": "它",
+    "pinyin": ["tā", "ta1"],
+    "english_concise": "it",
+    "english_descriptive": "used to refer to animals or inanimate objects",
+    "example_cn": "它是一只可爱的猫。",
+    "example_pinyin": "Tā shì yī zhī kě’ài de māo.",
+    "example_en": "It is a cute cat.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "踢足球",
+    "pinyin": ["tī zúqiú", "ti1 zu2qiu2"],
+    "english_concise": "play football (soccer)",
+    "english_descriptive": "to play the sport of soccer by kicking a ball",
+    "example_cn": "他们每周末都去踢足球。",
+    "example_pinyin": "Tāmen měi zhōumò dōu qù tī zúqiú.",
+    "example_en": "They play soccer every weekend.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "题",
+    "pinyin": ["tí", "ti2"],
+    "english_concise": "question; problem (in a test)",
+    "english_descriptive": "an exercise, question, or topic for discussion or examination",
+    "example_cn": "这道题很难。",
+    "example_pinyin": "Zhè dào tí hěn nán.",
+    "example_en": "This question is difficult.",
+    "measure_word": {
+      "character": "道",
+      "pinyin": ["dào", "dao4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "跳舞",
+    "pinyin": ["tiàowǔ", "tiao4wu3"],
+    "english_concise": "dance",
+    "english_descriptive": "to move rhythmically to music, usually with structured steps",
+    "example_cn": "她跳舞跳得很好。",
+    "example_pinyin": "Tā tiàowǔ tiào de hěn hǎo.",
+    "example_en": "She dances very well.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "location"],
+    "simplified": "外",
+    "pinyin": ["wài", "wai4"],
+    "english_concise": "outside; external",
+    "english_descriptive": "refers to the exterior part of something or an outside place",
+    "example_cn": "他在外工作。",
+    "example_pinyin": "Tā zài wài gōngzuò.",
+    "example_en": "He works outside.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "完",
+    "pinyin": ["wán", "wan2"],
+    "english_concise": "finish; complete",
+    "english_descriptive": "to bring something to an end or completion",
+    "example_cn": "我做完作业了。",
+    "example_pinyin": "Wǒ zuò wán zuòyè le.",
+    "example_en": "I finished my homework.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "玩",
+    "pinyin": ["wán", "wan2"],
+    "english_concise": "play; have fun",
+    "english_descriptive": "to engage in an activity for enjoyment or amusement",
+    "example_cn": "孩子们在外面玩。",
+    "example_pinyin": "Háizimen zài wàimiàn wán.",
+    "example_en": "The children are playing outside.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "time"],
+    "simplified": "晚上",
+    "pinyin": ["wǎnshang", "wan3shang5"],
+    "english_concise": "evening; night",
+    "english_descriptive": "the period of time after sunset and before going to bed",
+    "example_cn": "我们晚上去看电影。",
+    "example_pinyin": "Wǒmen wǎnshang qù kàn diànyǐng.",
+    "example_en": "We’re going to see a movie in the evening.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["preposition", "verb"],
+    "simplified": "往",
+    "pinyin": ["wǎng", "wang3"],
+    "english_concise": "toward; go to",
+    "english_descriptive": "used to indicate direction or movement toward a place",
+    "example_cn": "他往学校走。",
+    "example_pinyin": "Tā wǎng xuéxiào zǒu.",
+    "example_en": "He walks toward the school.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb", "question"],
+    "simplified": "为什么",
+    "pinyin": ["wèishénme", "wei4shen2me5"],
+    "english_concise": "why",
+    "english_descriptive": "used to ask for the reason or cause of something",
+    "example_cn": "你为什么笑？",
+    "example_pinyin": "Nǐ wèishénme xiào?",
+    "example_en": "Why are you laughing?",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "问",
+    "pinyin": ["wèn", "wen4"],
+    "english_concise": "ask",
+    "english_descriptive": "to make an inquiry or request information",
+    "example_cn": "我可以问你一个问题吗？",
+    "example_pinyin": "Wǒ kěyǐ wèn nǐ yī gè wèntí ma?",
+    "example_en": "Can I ask you a question?",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "问题",
+    "pinyin": ["wèntí", "wen4ti2"],
+    "english_concise": "question; problem",
+    "english_descriptive": "a query that seeks information or a situation that needs to be solved",
+    "example_cn": "这个问题很简单。",
+    "example_pinyin": "Zhège wèntí hěn jiǎndān.",
+    "example_en": "This question is very simple.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "西瓜",
+    "pinyin": ["xīguā", "xi1gua1"],
+    "english_concise": "watermelon",
+    "english_descriptive": "a large round fruit with green rind and sweet red flesh",
+    "example_cn": "我喜欢吃西瓜。",
+    "example_pinyin": "Wǒ xǐhuān chī xīguā.",
+    "example_en": "I like to eat watermelon.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb", "noun"],
+    "simplified": "希望",
+    "pinyin": ["xīwàng", "xi1wang4"],
+    "english_concise": "hope; wish",
+    "english_descriptive": "to desire or expect something to happen",
+    "example_cn": "我希望你快乐。",
+    "example_pinyin": "Wǒ xīwàng nǐ kuàilè.",
+    "example_en": "I hope you are happy.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "洗",
+    "pinyin": ["xǐ", "xi3"],
+    "english_concise": "wash",
+    "english_descriptive": "to clean something using water or another liquid",
+    "example_cn": "他在洗衣服。",
+    "example_pinyin": "Tā zài xǐ yīfu.",
+    "example_en": "He is washing clothes.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "time"],
+    "simplified": "小时",
+    "pinyin": ["xiǎoshí", "xiao3shi2"],
+    "english_concise": "hour",
+    "english_descriptive": "a unit of time equal to sixty minutes",
+    "example_cn": "我睡了八个小时。",
+    "example_pinyin": "Wǒ shuì le bā gè xiǎoshí.",
+    "example_en": "I slept for eight hours.",
+    "measure_word": {
+      "character": "个",
+      "pinyin": ["gè", "ge4"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb", "emotion"],
+    "simplified": "笑",
+    "pinyin": ["xiào", "xiao4"],
+    "english_concise": "laugh; smile",
+    "english_descriptive": "to show happiness or amusement by making a smiling face or sound",
+    "example_cn": "她笑得很开心。",
+    "example_pinyin": "Tā xiào de hěn kāixīn.",
+    "example_en": "She is smiling happily.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "新",
+    "pinyin": ["xīn", "xin1"],
+    "english_concise": "new",
+    "english_descriptive": "recently made, created, or acquired; not old",
+    "example_cn": "我买了一辆新车。",
+    "example_pinyin": "Wǒ mǎi le yī liàng xīn chē.",
+    "example_en": "I bought a new car.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb", "noun"],
+    "simplified": "姓",
+    "pinyin": ["xìng", "xing4"],
+    "english_concise": "surname; be surnamed",
+    "english_descriptive": "to have the family name; or the family name itself",
+    "example_cn": "你姓什么？",
+    "example_pinyin": "Nǐ xìng shénme?",
+    "example_en": "What is your surname?",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "休息",
+    "pinyin": ["xiūxi", "xiu1xi5"],
+    "english_concise": "rest; take a break",
+    "english_descriptive": "to relax or stop working for a period of time",
+    "example_cn": "我们休息一下吧。",
+    "example_pinyin": "Wǒmen xiūxi yíxià ba.",
+    "example_en": "Let's take a short break.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "雪",
+    "pinyin": ["xuě", "xue3"],
+    "english_concise": "snow",
+    "english_descriptive": "frozen water vapor that falls to the ground as white flakes",
+    "example_cn": "今天下雪了。",
+    "example_pinyin": "Jīntiān xià xuě le.",
+    "example_en": "It snowed today.",
+    "measure_word": {
+      "character": "场",
+      "pinyin": ["chǎng", "chang3"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "颜色",
+    "pinyin": ["yánsè", "yan2se4"],
+    "english_concise": "color",
+    "english_descriptive": "the quality of an object with respect to reflected light",
+    "example_cn": "你喜欢什么颜色？",
+    "example_pinyin": "Nǐ xǐhuān shénme yánsè?",
+    "example_en": "What color do you like?",
+    "measure_word": {
+      "character": "种",
+      "pinyin": ["zhǒng", "zhong3"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun"],
+    "simplified": "眼睛",
+    "pinyin": ["yǎnjing", "yan3jing5"],
+    "english_concise": "eye",
+    "english_descriptive": "the organ of sight in humans and animals",
+    "example_cn": "她的眼睛很漂亮。",
+    "example_pinyin": "Tā de yǎnjing hěn piàoliang.",
+    "example_en": "Her eyes are beautiful.",
+    "measure_word": {
+      "character": "只",
+      "pinyin": ["zhī", "zhi1"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "food"],
+    "simplified": "羊肉",
+    "pinyin": ["yángròu", "yang2rou4"],
+    "english_concise": "mutton; lamb",
+    "english_descriptive": "meat from a sheep, commonly used in Chinese cuisine",
+    "example_cn": "我不吃羊肉。",
+    "example_pinyin": "Wǒ bù chī yángròu.",
+    "example_en": "I don’t eat mutton.",
+    "measure_word": {
+      "character": "斤",
+      "pinyin": ["jīn", "jin1"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "medicine"],
+    "simplified": "药",
+    "pinyin": ["yào", "yao4"],
+    "english_concise": "medicine; drug",
+    "english_descriptive": "a substance used to treat illness or relieve pain",
+    "example_cn": "这个药一天吃三次。",
+    "example_pinyin": "Zhège yào yì tiān chī sān cì.",
+    "example_en": "Take this medicine three times a day.",
+    "measure_word": {
+      "character": "种",
+      "pinyin": ["zhǒng", "zhong3"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb", "auxiliary"],
+    "simplified": "要",
+    "pinyin": ["yào", "yao4"],
+    "english_concise": "want; need; will",
+    "english_descriptive": "to express desire, necessity, or future intention",
+    "example_cn": "我要喝水。",
+    "example_pinyin": "Wǒ yào hē shuǐ.",
+    "example_en": "I want to drink water.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb", "conjunction"],
+    "simplified": "也",
+    "pinyin": ["yě", "ye3"],
+    "english_concise": "also; too",
+    "english_descriptive": "used to express inclusion or addition in a statement",
+    "example_cn": "我也喜欢看书。",
+    "example_pinyin": "Wǒ yě xǐhuān kàn shū.",
+    "example_en": "I also like reading.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb"],
+    "simplified": "一起",
+    "pinyin": ["yìqǐ", "yi4qi3"],
+    "english_concise": "together",
+    "english_descriptive": "used to express doing something in company with others",
+    "example_cn": "我们一起去吃饭吧。",
+    "example_pinyin": "Wǒmen yìqǐ qù chīfàn ba.",
+    "example_en": "Let’s go eat together.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb phrase"],
+    "simplified": "一下",
+    "pinyin": ["yíxià", "yi2xia4"],
+    "english_concise": "a little; once",
+    "english_descriptive": "used after a verb to indicate a short or quick action",
+    "example_cn": "请等我一下。",
+    "example_pinyin": "Qǐng děng wǒ yíxià.",
+    "example_en": "Please wait for me a moment.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb"],
+    "simplified": "已经",
+    "pinyin": ["yǐjīng", "yi3jing1"],
+    "english_concise": "already",
+    "english_descriptive": "used to express that something has happened or been completed",
+    "example_cn": "他已经到了。",
+    "example_pinyin": "Tā yǐjīng dào le.",
+    "example_en": "He has already arrived.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "concept"],
+    "simplified": "意思",
+    "pinyin": ["yìsi", "yi4si5"],
+    "english_concise": "meaning; idea",
+    "english_descriptive": "the sense or significance of a word, phrase, or situation",
+    "example_cn": "这个词是什么意思？",
+    "example_pinyin": "Zhège cí shì shénme yìsi?",
+    "example_en": "What does this word mean?",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["conjunction"],
+    "simplified": "因为",
+    "pinyin": ["yīnwèi", "yin1wei4"],
+    "english_concise": "because",
+    "english_descriptive": "used to introduce a cause or reason for something",
+    "example_cn": "我没去，因为我生病了。",
+    "example_pinyin": "Wǒ méi qù, yīnwèi wǒ shēngbìng le.",
+    "example_en": "I didn’t go because I was sick.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["conjunction"],
+    "simplified": "所以",
+    "pinyin": ["suǒyǐ", "suo3yi3"],
+    "english_concise": "so; therefore",
+    "english_descriptive": "used to introduce a result or conclusion based on the previous statement",
+    "example_cn": "他生病了，所以没来上课。",
+    "example_pinyin": "Tā shēngbìng le, suǒyǐ méi lái shàngkè.",
+    "example_en": "He was sick, so he didn’t come to class.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective", "weather"],
+    "simplified": "阴",
+    "pinyin": ["yīn", "yin1"],
+    "english_concise": "cloudy; overcast",
+    "english_descriptive": "used to describe weather without sunshine or covered by clouds",
+    "example_cn": "今天是阴天。",
+    "example_pinyin": "Jīntiān shì yīn tiān.",
+    "example_en": "It’s cloudy today.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "游泳",
+    "pinyin": ["yóuyǒng", "you2yong3"],
+    "english_concise": "swim",
+    "english_descriptive": "to move through water using limbs or body motions",
+    "example_cn": "我每天早上去游泳。",
+    "example_pinyin": "Wǒ měitiān zǎoshang qù yóuyǒng.",
+    "example_en": "I go swimming every morning.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "location"],
+    "simplified": "右边",
+    "pinyin": ["yòubian", "you4bian5"],
+    "english_concise": "right side",
+    "english_descriptive": "the side or direction to the right",
+    "example_cn": "商店在银行的右边。",
+    "example_pinyin": "Shāngdiàn zài yínháng de yòubian.",
+    "example_en": "The store is to the right of the bank.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "food"],
+    "simplified": "鱼",
+    "pinyin": ["yú", "yu2"],
+    "english_concise": "fish",
+    "english_descriptive": "a water-dwelling animal with gills and fins, often eaten as food",
+    "example_cn": "我喜欢吃鱼。",
+    "example_pinyin": "Wǒ xǐhuān chī yú.",
+    "example_en": "I like eating fish.",
+    "measure_word": {
+      "character": "条",
+      "pinyin": ["tiáo", "tiao2"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "远",
+    "pinyin": ["yuǎn", "yuan3"],
+    "english_concise": "far; distant",
+    "english_descriptive": "located or extending a great distance away",
+    "example_cn": "学校离我家很远。",
+    "example_pinyin": "Xuéxiào lí wǒ jiā hěn yuǎn.",
+    "example_en": "The school is far from my home.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "activity"],
+    "simplified": "运动",
+    "pinyin": ["yùndòng", "yun4dong4"],
+    "english_concise": "exercise; sports",
+    "english_descriptive": "physical activities or sports done to keep the body healthy",
+    "example_cn": "我每天都做运动。",
+    "example_pinyin": "Wǒ měitiān dōu zuò yùndòng.",
+    "example_en": "I exercise every day.",
+    "measure_word": {
+      "character": "种",
+      "pinyin": ["zhǒng", "zhong3"]
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb"],
+    "simplified": "再",
+    "pinyin": ["zài", "zai4"],
+    "english_concise": "again; once more",
+    "english_descriptive": "used to indicate repetition or continuation of an action",
+    "example_cn": "请再说一遍。",
+    "example_pinyin": "Qǐng zài shuō yí biàn.",
+    "example_en": "Please say it again.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "time"],
+    "simplified": "早上",
+    "pinyin": ["zǎoshang", "zao3shang5"],
+    "english_concise": "morning",
+    "english_descriptive": "the time between sunrise and noon",
+    "example_cn": "我早上七点起床。",
+    "example_pinyin": "Wǒ zǎoshang qī diǎn qǐchuáng.",
+    "example_en": "I get up at seven in the morning.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "family"],
+    "simplified": "丈夫",
+    "pinyin": ["zhàngfu", "zhang4fu5"],
+    "english_concise": "husband",
+    "english_descriptive": "a married man in relation to his spouse",
+    "example_cn": "我丈夫在医院工作。",
+    "example_pinyin": "Wǒ zhàngfu zài yīyuàn gōngzuò.",
+    "example_en": "My husband works at the hospital.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "找",
+    "pinyin": ["zhǎo", "zhao3"],
+    "english_concise": "look for; seek; find",
+    "english_descriptive": "to search for something or someone",
+    "example_cn": "我在找我的手机。",
+    "example_pinyin": "Wǒ zài zhǎo wǒ de shǒujī.",
+    "example_en": "I’m looking for my phone.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["particle"],
+    "simplified": "着",
+    "pinyin": ["zhe", "zhe5"],
+    "english_concise": "indicates ongoing action or state",
+    "english_descriptive": "a particle used after a verb to indicate a continuous or static state",
+    "example_cn": "他笑着跟我说话。",
+    "example_pinyin": "Tā xiàozhe gēn wǒ shuōhuà.",
+    "example_en": "He spoke to me with a smile.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adjective"],
+    "simplified": "真",
+    "pinyin": ["zhēn", "zhen1"],
+    "english_concise": "real; true; really",
+    "english_descriptive": "used to emphasize truth or intensity of a statement",
+    "example_cn": "你真漂亮！",
+    "example_pinyin": "Nǐ zhēn piàoliang!",
+    "example_en": "You’re really beautiful!",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb"],
+    "simplified": "正在",
+    "pinyin": ["zhèngzài", "zheng4zai4"],
+    "english_concise": "in the process of; currently",
+    "english_descriptive": "used to indicate an action that is happening right now",
+    "example_cn": "我正在吃饭。",
+    "example_pinyin": "Wǒ zhèngzài chīfàn.",
+    "example_en": "I am eating right now.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "知道",
+    "pinyin": ["zhīdào", "zhi1dao4"],
+    "english_concise": "know; be aware of",
+    "english_descriptive": "to have knowledge or awareness about something",
+    "example_cn": "我知道他是谁。",
+    "example_pinyin": "Wǒ zhīdào tā shì shéi.",
+    "example_en": "I know who he is.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "准备",
+    "pinyin": ["zhǔnbèi", "zhun3bei4"],
+    "english_concise": "prepare; get ready",
+    "english_descriptive": "to make arrangements or get ready for something",
+    "example_cn": "我准备明天去北京。",
+    "example_pinyin": "Wǒ zhǔnbèi míngtiān qù Běijīng.",
+    "example_en": "I plan to go to Beijing tomorrow.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["verb"],
+    "simplified": "走",
+    "pinyin": ["zǒu", "zou3"],
+    "english_concise": "walk; go; leave",
+    "english_descriptive": "to move on foot or to depart from a place",
+    "example_cn": "我走了，再见！",
+    "example_pinyin": "Wǒ zǒu le, zàijiàn!",
+    "example_en": "I’m leaving, goodbye!",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["adverb"],
+    "simplified": "最",
+    "pinyin": ["zuì", "zui4"],
+    "english_concise": "most; -est",
+    "english_descriptive": "used to express the superlative degree of adjectives or adverbs",
+    "example_cn": "他是我最好的朋友。",
+    "example_pinyin": "Tā shì wǒ zuì hǎo de péngyou.",
+    "example_en": "He’s my best friend.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  },
+  {
+    "level": "HSK2",
+    "categories": ["noun", "location"],
+    "simplified": "左边",
+    "pinyin": ["zuǒbian", "zuo3bian5"],
+    "english_concise": "left side",
+    "english_descriptive": "the side or direction to the left",
+    "example_cn": "超市在银行的左边。",
+    "example_pinyin": "Chāoshì zài yínháng de zuǒbian.",
+    "example_en": "The supermarket is to the left of the bank.",
+    "measure_word": {
+      "character": "",
+      "pinyin": []
+    }
+  }
+]
