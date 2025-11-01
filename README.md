@@ -3,8 +3,9 @@
 <!-- Badges -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![commit][commit-shield]][commit-url]
-[![issues][issues-shield]][issues-url]
+[![Commit][commit-shield]][commit-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 
 
@@ -17,5 +18,7 @@
 [forks-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/forks
 [commit-shield]: https://custom-icon-badges.demolab.com/github/commit-activity/t/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=git-commit&color=394032
 [commit-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/graphs/commit-activity
-[issues-shield]: https://custom-icon-badges.demolab.com/github/issues/open/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=issue-open&color=8DAB7F
+[stars-shield]: https://custom-icon-badges.demolab.com/github/stars/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=star&color=8DAB7F
+[stars-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/stargazers
+[issues-shield]: https://custom-icon-badges.demolab.com/github/issues/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=issue-open&color=CFEE9E
 [issues-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/issues
