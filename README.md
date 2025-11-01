@@ -6,6 +6,7 @@
 [![Commit][commit-shield]][commit-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
 
 
 
@@ -22,3 +23,5 @@
 [stars-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/stargazers
 [issues-shield]: https://custom-icon-badges.demolab.com/github/issues/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=issue-open&color=CFEE9E
 [issues-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/issues
+[license-shield]: https://custom-icon-badges.demolab.com/github/license/Michael-Steenkamp/Chinese-Vocabulary?style=plastic&logoColor=white&logo=law&color=D3F0A7
+[license-url]: https://github.com/Michael-Steenkamp/Chinese-Vocabulary/blob/main/LICENSE
