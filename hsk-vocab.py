@@ -207,15 +207,40 @@ def get_default_progress(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 def load_progress(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
     Loads progress from the global progress file.
-    If file not found or mismatched, returns default progress.
+    Intelligently merges old progress with new data so adding words
+    doesn't reset your stats.
     """
     if not os.path.exists(g_progress_file_path):
         return get_default_progress(data)
     try:
         with open(g_progress_file_path, 'r', encoding="utf-8") as f:
-            prog = json.load(f)
-        # Reset if data length and progress length don't match
-        return prog if len(prog) == len(data) else get_default_progress(data)
+            old_prog = json.load(f)
+
+        # Create a lookup dictionary from the old progress
+        # Key = word (simplified character), Value = the progress dictionary
+        old_prog_map = {item['word']: item for item in old_prog if 'word' in item}
+
+        new_prog = []
+        for w in data:
+            word_char = w.get('simplified', 'N/A')
+
+            # If we have history for this word, use it
+            if word_char in old_prog_map:
+                new_prog.append(old_prog_map[word_char])
+            else:
+                # Otherwise, create a new default entry for the new word
+                new_prog.append({
+                    "word": word_char,
+                    "weight": MAX_WEIGHT,
+                    "streak": 0,
+                    "avg_time": 0.0,
+                    "total_time": 0.0,
+                    "attempts": 0,
+                    "correct": 0
+                })
+
+        return new_prog
+
     except (json.JSONDecodeError, IOError):
         print(f"Error reading progress file, starting fresh.")
         return get_default_progress(data)
@@ -263,7 +288,7 @@ def get_quiz_item_data(item: Dict[str, Any]) -> Tuple[List[str], List[str], str]
         prompt += item.get('english_concise', 'N/A') + " | " + item.get("english_descriptive", 'N/A') + " 〙"
         if g_show_simplified:
             prompt += "\n〘 " + item.get('simplified', 'N/A') + " 〙"
-        
+
         answer.append(item.get("simplified", "").lower())
         # Handle pinyin answer (e.g., "ni3hao3")
         if 'pinyin' in item and isinstance(item['pinyin'], list) and len(item['pinyin']) > 1:
@@ -287,7 +312,7 @@ def reveal_answer(item: Dict[str, Any]):
     measure_word = item.get('measure_word', {})
     mw_char = measure_word.get('character', '')
     mw_pinyin = measure_word.get('pinyin', '')
-    
+
     print("╔")
     print(f"║ ⌜ {item.get('simplified', 'N/A')} | {item.get('pinyin', 'N/A')} ({mw_char} {mw_pinyin})")
     print(f"║ ⌞ {item.get('english_concise', 'N/A')} | {item.get('english_descriptive', 'N/A')}")
@@ -320,7 +345,7 @@ def display_item_metadata(prog_item: Dict[str, Any], orig_weight: float):
     new_proficiency = ((MAX_WEIGHT - prog_item['weight']) / weight_range) * 100.0
     old_proficiency = ((MAX_WEIGHT - orig_weight) / weight_range) * 100.0
     proficiency_change = new_proficiency - old_proficiency
-    
+
     accuracy = (prog_item['correct'] / prog_item['attempts']) * 100.0 if prog_item['attempts'] > 0 else 0.0
 
     print("╔")
@@ -381,7 +406,7 @@ def run_quiz_for_item(item: Dict[str, Any], prog_item: Dict[str, Any]) -> str:
         print(f"{icon_correct}Correct (⏱ {elapsed_time:.2f}s)〘 {item.get('example_cn', '')}〙")
         prog_item['correct'] += 1
         prog_item['streak'] += 1
-        
+
         # Apply rewards
         reward = (REWARD_CORRECT + (REWARD_STREAK * prog_item['streak']))
         if prog_item['avg_time'] > 0 and elapsed_time < prog_item['avg_time']:
@@ -398,7 +423,7 @@ def run_quiz_for_item(item: Dict[str, Any], prog_item: Dict[str, Any]) -> str:
 
     # Update avg_time *after* processing
     prog_item['avg_time'] = prog_item['total_time'] / prog_item['attempts']
-    
+
     # Display the metadata for this specific item
     display_item_metadata(prog_item, orig_weight)
 
@@ -415,7 +440,7 @@ def get_session_metadata(progress: List[Dict[str, Any]]) -> Tuple[float, float]:
     """
     if not progress:
         return 0.0, 0.0
-        
+
     total_weight = sum(p['weight'] for p in progress)
     total_time = sum(p['total_time'] for p in progress)
 
@@ -424,13 +449,13 @@ def get_session_metadata(progress: List[Dict[str, Any]]) -> Tuple[float, float]:
 
     # Normalized difficulty: 0.0 = easy (MIN_WEIGHT), 1.0 = hard (MAX_WEIGHT)
     normalized_avg_difficulty = (avg_weight - MIN_WEIGHT) / weight_range
-    
+
     # Proficiency: 100.0 = easy, 0.0 = hard
     proficiency_percent = (1.0 - normalized_avg_difficulty) * 100.0
-    
+
     # Clamp values just in case
     proficiency_percent = max(0.0, min(100.0, proficiency_percent))
-    
+
     return proficiency_percent, total_time
 
 def display_session_summary(
@@ -442,26 +467,26 @@ def display_session_summary(
     """
     Displays a final summary of the session and overall HSK progress.
     """
-    
+
     # --- Calculate Session-Specific Stats ---
     session_accuracy = (session_correct / session_attempts * 100) if session_attempts > 0 else 0
-    
+
     # --- Calculate Updated Global Stats ---
     end_proficiency, end_total_time = get_session_metadata(progress)
     proficiency_change = end_proficiency - start_proficiency
-    
+
     total_words = len(progress)
     words_seen = sum(1 for p in progress if p['attempts'] > 0)
-    
+
     # --- New: Calculate Overall Accuracy ---
     overall_total_correct = sum(p['correct'] for p in progress)
     overall_total_attempts = sum(p['attempts'] for p in progress)
     overall_accuracy = (overall_total_correct / overall_total_attempts * 100) if overall_total_attempts > 0 else 0
-    
+
     # Define "mastered" as 95%+ proficiency (or weight in the bottom 5% of the range)
     mastery_threshold = MIN_WEIGHT + (MAX_WEIGHT - MIN_WEIGHT) * 0.05
     words_mastered = sum(1 for p in progress if p['weight'] <= mastery_threshold)
-    
+
     # --- Display the Stats Boxes ---
     clear_terminal()
     print()
@@ -470,9 +495,9 @@ def display_session_summary(
     print(f"║ {icon_accuracy}Accuracy:     {session_accuracy:.1f}% ({session_correct} / {session_attempts})")
     print(f"║ {icon_proficiency} Change:      {'+' if proficiency_change > 0 else ''}{proficiency_change:.2f}%")
     print("╚" + "═" * 41)
-    
+
     print()
-    
+
     print(f"╔══ Overall Progress (HSK {g_hsk_level}) ══════════════")
     print(f"║ {icon_proficiency} Proficiency:  {end_proficiency:.1f}%")
     # --- This is the new line ---
@@ -505,7 +530,7 @@ def main():
 
         while True:
             index = get_next_index(len(data), progress)
-            
+
             item_data = data[index]
             item_progress = progress[index]
 
@@ -526,10 +551,10 @@ def main():
         if 'progress' in locals():
             # 1. Save the updated progress first
             save_progress(progress)
-            
+
             # 2. Get the NEW total time from the progress data
             end_proficiency, end_total_time = get_session_metadata(progress)
-            
+
             # 3. Calculate the change *between the two totals*
             time_change_minutes = (end_total_time - start_total_time) / 60.0
 
